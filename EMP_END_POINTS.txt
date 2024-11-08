@@ -1,0 +1,5 @@
+EMPLOYEE MANAGEMENT APPLICATIOBN ENDPOINTS
+
+LOCAL-HOST : http://localhost:8080/home
+
+SWAGGER : http://localhost:8080/swagger-ui/index.html
